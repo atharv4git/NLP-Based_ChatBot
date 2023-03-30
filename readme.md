@@ -1,7 +1,6 @@
 # NLP-Based-ChatBot
 ```diff
-- status: INCOMPLETE
-```
+- status: INCOMPLETE```
 The chatbot could use natural language processing to understand user input and generate appropriate responses. Inputs could include text-based user messages. Outputs could include text-based responses from the chatbot.
     
 **Problem Statement**: Many businesses and organizations are looking for efficient and cost-effective ways to provide customer support and engage with their customers. Traditional methods, such as phone or email support, can be time-consuming and require dedicated staff to manage. A chatbot program could provide an automated and interactive way for businesses and organizations to communicate with their customers.
